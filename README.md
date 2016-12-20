@@ -2,3 +2,4 @@
 
 * Search ProductHunt.com
 * Search AlternativeTo.net
+* Search the Wayback Machine (https://web.archive.org/)
