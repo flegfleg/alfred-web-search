@@ -3,3 +3,4 @@
 * Search ProductHunt.com
 * Search AlternativeTo.net
 * Search the Wayback Machine (https://web.archive.org/)
+* Search the WordPress Hook/API Index (http://hookr.io)
